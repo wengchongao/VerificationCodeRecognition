@@ -1,0 +1,2 @@
+# VerificationCodeRecognition
+基于CNN卷积神经网络的验证码识别技术
